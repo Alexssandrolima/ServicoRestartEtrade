@@ -1,0 +1,11 @@
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\bin\Debug\SoftFiscal.exe.config
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\bin\Debug\SoftFiscal.exe
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\bin\Debug\SoftFiscal.pdb
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.csprojResolveAssemblyReference.cache
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.FormPrincipal.resources
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.Properties.Resources.resources
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.csproj.GenerateResource.Cache
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.exe
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.pdb
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.View.FormBaixarArquivoSite.resources
+C:\Projetos_CSharp\Servicos\SoftFiscal\SoftFiscal\obj\Debug\SoftFiscal.View.FormConfiguracao.resources

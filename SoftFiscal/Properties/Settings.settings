@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SoftFiscal.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="myColor" Type="System.Drawing.Color" Scope="Application">
+      <Value Profile="(Default)">Blue</Value>
+    </Setting>
+    <Setting Name="UsarTef" Type="System.String" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UsarSistema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Etrade</Value>
+    </Setting>
+    <Setting Name="UsarNomeEmpresa" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SOFT FISCAL - PB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
