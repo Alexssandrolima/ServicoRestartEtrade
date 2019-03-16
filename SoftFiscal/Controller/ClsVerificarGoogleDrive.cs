@@ -29,7 +29,7 @@ namespace SoftFiscal.Controller
             RegistryKey RK = Registry.CurrentUser.OpenSubKey("Software\\Google\\Drive");
             if (RK == null)
             {
-                MessageBox.Show("não instalado Flash Instalado");
+                //MessageBox.Show("não instalado Flash Instalado");
                 //verificar pasta alex instalado no drive c
                 bEncontrouPastaAlexSimNao = metodoVerificarPastaAlexBaixarArquivoGoogledrivedo();
                 if (!bEncontrouPastaAlexSimNao) return "Erro ao encontrar a pasta " + spasta_Alex;
