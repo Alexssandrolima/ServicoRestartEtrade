@@ -35,6 +35,8 @@ namespace SoftFiscal
         public string sPastaWwinrar { get; set; }
         public string sziparArquivo { get; set; }
 
+        public string sGoogleDriver { get; set; }
+
         public FormPrincipal()
         {
             InitializeComponent();
@@ -472,6 +474,5 @@ namespace SoftFiscal
 
         }
 
-        public string sGoogleDriver { get; set; }
     }
 }
